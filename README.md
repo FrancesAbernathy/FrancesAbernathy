@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanshi Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently working on **OCR for Handwritten Texts**
+- 🔭 I’m currently working on **Table Reservation System for Restaurants**
 
 - 🌱 I’m currently learning **GenAI and the in-depth learning of Convolutional Neural Networks**
 
